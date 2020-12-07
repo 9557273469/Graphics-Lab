@@ -1,0 +1,24 @@
+Experiment – 4 
+Design your own animation using GIMP
+Step - 1:
+Open GIMP.
+Step - 2:
+Open the File menu -> Open as layers.
+Step - 3:
+Open Image dialog box opens -> Browse to the desired folder -> Select the first image for the animated GIF-> Select all the images 
+Step - 4:
+All the pictures are added, to get a preview of the animated GIF file -> Open the Filters menu ->Go to Animation -> Click Playback.
+Step - 5:
+Click Play to preview your animated GIF file
+Step – 6: 
+To end the preview, close the Animation Playback window.
+Step – 7:
+To finish creating your animated GIF file, save it. 
+Open the File menu -> Click Export As
+Step – 8:
+In the Export Image window ->select the location where you want to save your GIF file, type a name for it and make sure you specify the GIF extension at its end -> Click Export.
+Step – 9:
+Export Image as GIF dialog box opens -> Check the option called As animation -> Set the delay used between the frames of the animation -> Click Export.
+Finish.
+
+

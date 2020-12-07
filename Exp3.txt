@@ -1,0 +1,37 @@
+Experiment – 3 
+Design of Google Logo using GIMP.
+Step - 1: 
+Open GIMP
+Go to file -> new file -> choose 1280x1280 size screen and click OK. 
+Step - 2: 
+Go to View -> Make sure snap to guides is selected.
+Step - 3: 
+Go to image -> Guides -> Guides by % -> Choose 50% horizontal guide and in similar way 50% vertical guide.
+Step - 4: 
+Select the ellipse tool from the toolbar -> Take the cursor to the intersection point of the guides -> Draw a circle in any side -> Hold Ctrl+Shift to position it at the centre. 
+Step - 5: 
+Go to select -> To path. 
+Step - 6: 
+Go to select -> None.
+Step - 7: 
+Go to path -> Make the path visible by clicking on the eyeball icon -> Using the text tool add the text.
+Step - 8: 
+Right click on the text layer -> Choose text along path-> Turn off the visibility of the layer 
+->add new layer with it. 
+Step - 9: 
+Go to path, text1-> Right click on the path -> Select Path to selection
+Step - 10: 
+Go to Edit -> fill with FG color
+
+Step - 11: 
+Select -> None 
+Delete text1 path. 
+Step - 12: 
+Now text-2, click to toolbar-> Flip tool-> Transform row -> Direction Flipping. 
+Step - 13: 
+Now go to the text layer -> Repeat steps 8-11 for text2 layer 
+Step - 14: 
+Go to file and open the Google logo as layer and place it in the centre and make other layers invisible. 
+Step - 15: 
+Save the output. And export it in other location with (.xcf) extension.
+

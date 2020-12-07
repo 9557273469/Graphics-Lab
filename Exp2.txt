@@ -1,0 +1,19 @@
+Experiment -2 
+Design of Logo using GIMP.
+Step – 1: 
+Open GIMP
+Go to file -> New file.
+Step – 2:
+ Go to file -> Open As Layers -> And open the picture as a layer.
+Step – 3: 
+Using the free select tool start selecting the border/boundaries of the picture. 
+Step – 4:
+After selecting all the boundaries, connect the last point with the first one and cut that portion from that image using CTRL+X.
+Step – 5:
+ Paste this image on the white background layer, by adding layer from the Layers column.
+Step – 6:
+ Select Paintbrush tool from the toolbar and a colour from colour palette. 
+Step – 7:
+Using the text tool, make add text to the picture.
+Step – 8:
+ Make changes to the picture and save the output.

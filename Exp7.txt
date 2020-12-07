@@ -1,0 +1,15 @@
+Experiment 7
+Design of 3d Rocket using Blender
+1.Open Blender delete the cube and add a cylinder by pressing shift+a using mesh and set vertices to 20
+2.Rotate the cylinder by 90 degree in x axis and scale it in y axis 
+3. press tab to edit and then loop cut and drag it to right side and increase the cut by 10 .\
+4.Delete the back face.
+5.Select front face and click on propotional editing and then choose inverse square from drop down menu and scale it press 0.
+6.Press c and select outer edges of the inverse square upto 3 quater and in select menu click on edge loops and delete vertices
+7.Go to modifiers add modifiers->click on mirror on x as well as on y axis.
+8.Hide mirror and the rotate to -45 degree and loop cut to make fins. number of cut to 2
+9. press E and extrude and then scale for desired shape and click on mirror
+
+
+
+https://drive.google.com/drive/folders/1SdRggzdmiY2Hbzg9v2XinYX7pHePHvCO?usp=sharing

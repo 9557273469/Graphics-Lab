@@ -1,0 +1,32 @@
+				Experiment- 5
+
+Aim: - Design of 3D-Text using Blender.
+
+				Steps for designing 3D-Text
+
+This experiment is to design a 3D-Text on the Blender Platform.
+
+Step-1: Open Blender, and we need to clear everything already on the interface, start with a clean slate. 
+
+Step-2: Create a new file, and right click to find Mesh, click on the text option and edit it using the TAB key, and add the required text.
+
+Step-3: Select the alignment tool and use it to align the text to the center. Use the extrude option under Geometry. For the light to catch the curve of the text, use the bevel option and set it to at least 0.001. 
+
+Step-4: As we want the lights to go around the text and hit the edges, so we need to place the camera to the center, and to add the lights to go around the text, a circle needs to be inserted at the center of the text. 
+
+Step-5: Add the lights, and select constraints to add the follow path i.e. Circle. Now using the TAB button, align the circle close to the text so it is close to the path.
+
+Step-6: To render it as an animation we need to add frame rate of 120fps, and change the render engine to eevee.
+
+Step-7: Add black to the background, and metallic texture as well. Also, add bloom and screen space reflection. 
+
+Step-8: Add color Blue to the text and set the strength to 100.
+
+Step-9: Now save the .blend file to you local memory and render the file. 
+
+ 
+
+ 
+
+
+Link: https://drive.google.com/drive/folders/1dzQC_RewZLug4zmBTt8UElg8uBSrgw0q?usp=sharing

@@ -1,0 +1,86 @@
+EXPERIMENT-1
+INSTALLATION OF GIMP AND BLENDER
+
+Installation of GIMP:
+Step - 1:
+Download the GIMP installer  from gimp.org/downloads
+ 
+Step – 2:
+Run the GIMP installer. You can find this at the location you saved it to, usually your Downloads/My Downloads folder.
+ 
+
+Step – 3:
+Follow the prompts to install GIMP. Most users can leave the settings at the defaults.
+ 
+
+Step – 4:
+Finish the installation. After selecting the file formats, GIMP will install. This may take a few minutes.
+ 
+
+
+Step – 5:
+Start using GIMP. Once GIMP has finished installing, you can start using it. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation of Blender:
+Step – 1:
+Visit the Blender Website.
+ 
+
+Step – 2:
+Click on the link to access the Download page. Also, select the operating system to install the program.
+
+ 
+Step – 3:
+Now, run the downloaded Installer.
+ 
+
+
+
+
+
+
+
+
+Step – 4:
+Click on the next button to initiate the installation process.
+ 
+
+Step – 5:
+Click on the next button again.
+ 
+
+
+
+
+
+Step – 6:
+In this step, the user can change the default location of the program. Click Install to Move ahead.
+ 
+Step – 7:
+Wait for the Program to Install Blender.
+ 
+
+
+
+
+
+
+Step – 8:
+Click on Finish and complete the Installation Blender process.
+ 
+Step – 9:
+After installing the program, the Blender window will look like this. The interface of Blender is the same across all the operating systems.
+ 
